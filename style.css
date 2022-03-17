@@ -63,6 +63,14 @@
     width: calc(60% - 40px);
     height: 450px;
     margin-top: 25px;
-    margin-left: 25px;
+    margin-left: 20px;
     
+}
+
+.right-col{
+    float: left;
+    width: 20%;
+    height: 450px;
+    margin-top: 25px;
+    margin-left: 20px;
 }
