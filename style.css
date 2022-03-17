@@ -4,6 +4,7 @@
     padding: 0;    
 }
 
+/* Contenitore pagina */
 .container{
     max-width: 1280px;
     margin: auto;
