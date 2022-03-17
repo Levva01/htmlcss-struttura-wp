@@ -20,8 +20,17 @@
 
 .container-big{
     height: 500px;
+    margin-bottom: 20px;
 }
 
 .sand{
     background-color: sandybrown;
+}
+
+.container-small{
+    height: 80px;
+}
+
+.lightblue{
+    background-color: lightblue;
 }
