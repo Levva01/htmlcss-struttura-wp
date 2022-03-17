@@ -11,8 +11,17 @@
 
 .header{
     height: 100px;
+    margin-bottom: 20px;
 }
 
 .pink{
     background-color: palevioletred;
+}
+
+.container-big{
+    height: 500px;
+}
+
+.sand{
+    background-color: sandybrown;
 }
