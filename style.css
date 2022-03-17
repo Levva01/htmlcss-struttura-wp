@@ -15,7 +15,7 @@
 }
 
 .pink{
-    background-color: palevioletred;
+    background-color: #e579e6;
 }
 
 .container-big{
@@ -24,7 +24,7 @@
 }
 
 .sand{
-    background-color: sandybrown;
+    background-color: #e1d67a;
 }
 
 .container-small{
@@ -32,15 +32,16 @@
 }
 
 .lightblue{
-    background-color: lightblue;
+    background-color: #abcfe7;
 }
 
 .container-father{
     height: 500px;
+    margin-bottom: 10px;
 }
 
 .blue{
-    background-color: blue;
+    background-color: #0185ff;
 }
 
 /* Clearfix */
@@ -73,4 +74,12 @@
     height: 450px;
     margin-top: 25px;
     margin-left: 20px;
+}
+
+.footer{
+    height: 60px;
+}
+
+.purple{
+    background-color: #8801fe;
 }
