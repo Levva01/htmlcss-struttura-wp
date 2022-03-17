@@ -34,3 +34,26 @@
 .lightblue{
     background-color: lightblue;
 }
+
+.container-father{
+    height: 500px;
+}
+
+.blue{
+    background-color: blue;
+}
+
+/* Clearfix */
+.container-father::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.left-col{
+    float: left;
+    width: 20%;
+    height: 450px;
+    margin-top: 25px;
+    
+}
